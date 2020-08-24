@@ -6,6 +6,7 @@ public class Deneme {
 		System.out.println("deneme 01");
 		System.out.println("deneme 02");
 		System.out.println("remote deneme 01");
+		System.out.println("Besra");
 
 	}
 
